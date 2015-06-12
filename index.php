@@ -36,16 +36,16 @@ if(isset( $_SESSION['user_id'] ))
         
         <div class="container text-center">
 
-            <div class="page-header">
-                <h1>Login</h1>
-            </div>
+
+
+            <img style="margin: 40px 0;" width="200" src="http://217.199.187.69/russell-armer.co.uk/wp-content/uploads/2014/01/logo.png" alt="">
 
             <form class="form-signin" action="login.php" method="post">
                 
                 <input type="hidden" name="form_token" value="<?php echo $form_token; ?>" />
 
-                <input type="email" id="username" name="username" class="form-control" placeholder="username" maxlength="20" required autofocus>
-                <input type="password" id="username" name="password" class="form-control" placeholder="Password" maxlength="20" required>
+                <input type="email" id="username" name="username" class="form-control" placeholder="username" maxlength="255" required autofocus>
+                <input type="password" id="username" name="password" class="form-control" placeholder="Password" maxlength="255" required>
                 <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
             </form>
 

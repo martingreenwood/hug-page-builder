@@ -47,34 +47,30 @@ catch(Exception $e)
 
 ?>
 
-<pre>
-    <?php var_dump($pages); ?>
-</pre>
-
 <?php
 
 // get variables from returned object
 $pagename = $pages->downloadable;
 
-$dir = base."pages/";
-$dir2 = "/www/sites/hug-pages/pages/";
+$dir =  __DIR__ . "/pages/";
 
 $dFile = $dir.$pagename;
 
 if (file_exists($dFile)) {
 
     header('Content-Description: File Transfer');
-    header('Content-Type: application/octet-strea');
-    header("Content-Disposition: attachment; filename=\"" . basename($pagename) . "\";");
+    header('Content-Type: application/octet-stream');
+    header("Content-Disposition: attachment; filename=\"" . $pagename . "\";");
     header('Content-Transfer-Encoding: binary');
     header('Expires: 0');
     header('Cache-Control: must-revalidate');
     header('Pragma: public');
-    header('Content-Length: ' . filesize($pagename));
+    //header('Content-Length: ' . filesize($pagename));
     ob_clean();
     flush();
     readfile($dFile); //showing the path to the server where the file is to be download
     exit;
+
 }
 
 

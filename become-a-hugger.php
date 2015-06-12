@@ -38,7 +38,7 @@ $_SESSION['form_token'] = $form_token;
                 
                 <input type="hidden" name="form_token" value="<?php echo $form_token; ?>" />
 
-                <input type="email" id="username" name="username" class="form-control" placeholder="username (email)" maxlength="100" required autofocus>
+                <input type="email" id="username" name="username" class="form-control" placeholder="username (email)" maxlength="255" required autofocus>
                 <input type="password" id="username" name="password" class="form-control" placeholder="Password" maxlength="20" required>
                 <button class="btn btn-lg btn-primary btn-block" type="submit">Add User</button>
             </form>

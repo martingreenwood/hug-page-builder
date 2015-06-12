@@ -239,10 +239,12 @@ if (isset($_POST['submit'])) {
                 <div class="col-lg-12">
 
                     <div class="well">
-                            
-                        <p class="text-left"><a class="btn btn-primary" href="app.php" role="button">back</a></p>
 
-                         <?php echo $data['message']; ?>
+                        <h3>Saving Page...</h3>
+
+                        <?php echo $data['message']; ?>
+
+                        <p class="text-left"><a class="btn btn-primary" href="app.php" role="button">back</a></p>
 
 
                     </div>

@@ -3,10 +3,82 @@
 	{
 		"selected_items":
 		[
+			[
+				"styl",
+				"style	Attr"
+			],
+			[
+				"div",
+				"div	Tag"
+			],
+			[
+				"span",
+				"span	Tag"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pre",
+				"pre	Tag"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"your",
+				"yourfiles"
+			],
+			[
+				"header",
+				"header"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/martin/Library/Caches/Cleanup At Startup/Transmit/D42069F8-3530-4F53-B294-77189896D29A/app.css",
+			"settings":
+			{
+				"buffer_size": 17720,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -15,10 +87,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 368.0,
-		"last_filter": "PACKAGE CONTROL",
+		"height": 400.0,
+		"last_filter": "Package Control: ",
 		"selected_items":
 		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
 			[
 				"PACKAGE CONTROL",
 				"Package Control: Install Package"
@@ -32,7 +116,7 @@
 				"Preferences: Browse Packages"
 			]
 		],
-		"width": 417.0
+		"width": 457.0
 	},
 	"console":
 	{
@@ -53,10 +137,81 @@
 	},
 	"expanded_folders":
 	[
-		"/www/sites/hug-pages"
+		"/www/sites/hug-pages",
+		"/www/sites/hug-pages/pages",
+		"/www/sites/hug-pages/uploads"
 	],
 	"file_history":
 	[
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/F33ECBBF-61A3-4E11-85F3-DB3398308E9C/style.css",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/805F1AE8-FAB2-4903-A590-1C697F8414D5/style.css",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/3DAD43D8-FB97-48C9-BCA6-EE48950C6F7F/header-layout-3.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/FD168500-79B1-4635-A969-D237283DA20C/footer-credit.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/45DD093E-F636-420F-8706-A43184C5673C/functions.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/652B59FC-7166-466D-9D2B-C8FFE857D965/footer.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/0ED2192E-738A-4C1D-A1DF-F54B4A18CDBD/functions.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/47767E50-2DD4-4E98-B13F-76FF79AA3201/download.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/5B0316C7-2750-46BC-A319-CE2DF88C4F1B/app.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/3C770EEB-19F8-490F-8ED3-32A8DD5422D8/style.css",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/C16D7A9C-BB33-46B2-AD48-84A4790B9556/settings.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/7EF617E9-75B1-4133-ADE7-6E36C10D4F42/download.php",
+		"/Users/martin/Desktop/whatphp.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/BEF792C4-AA96-4A38-9BE4-7FB6B39C3897/whatphp.php",
+		"/www/sites/hug-pages/index.php",
+		"/www/sites/hug-pages/app.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/84E713A9-A53D-47A8-BB24-3737C27C049A/settings.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/7CC7E5F5-DAB1-4BF7-99CB-A72F3763990B/wp-config.php",
+		"/www/sites/hug-pages/add_user.php",
+		"/www/sites/hug-pages/become-a-hugger.php",
+		"/www/sites/hug-pages/download.php",
+		"/www/sites/hug-pages/js/main.js",
+		"/www/sites/hug-pages/incs/footer.php",
+		"/www/sites/hug-pages/assets/less/generix.less",
+		"/www/sites/hug-pages/save-page.php",
+		"/www/sites/hug-pages/incs/settings.php",
+		"/Users/martin/Downloads/download (1).php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/B7AA4018-7339-4E8D-A346-F0805CD9C2F8/app.css",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/EDBBC0A9-1E1A-47A4-A210-CA1741887E9B/header.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/2F3A6014-52CB-48D2-B39C-3D467ABEFF40/app.js",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/DF4FF2B0-5C70-44E4-B8D9-A381ECF12333/single-brands.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/769D7814-1526-486B-8DD7-BCCD47FD1C39/showroom.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/724B3852-3D1C-4104-B390-D1C3432644C5/products.php",
+		"/www/sites/hug-pages/incs/head.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/C58071AF-7AD2-4B59-831E-8D70846CE3C2/home.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/7DEC9713-21AC-4CE0-BFA8-BE12CC7D1F56/single-ranges.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/294544EC-F3DA-4D30-8F4B-070A27348731/home.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/A9952726-093E-42DE-8A83-F60B7228C56A/commercial.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/0B8828AA-217E-4853-994F-AC24EFDC530A/case-studies.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/A9742A1F-2F9A-4B31-AB63-F7BAD75E29F0/about.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/DEA45807-FF39-45DC-8E77-9D05D5A2D9C8/app.css",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/CFCA2C53-A2DE-43FF-940B-8AE33F9C1B92/single.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/4D05E14E-2C08-4F95-BEAE-82CCC5E9A936/single-brands.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/AA7C640B-7E6C-43E4-B595-D85BE10DF67E/app.js",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/B922D3DD-FB9D-4F93-92C0-B1F3FD51BA03/functions.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/79870A7D-0143-46DA-9B3D-15C158F96246/content.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/4E2D0D81-E65C-470C-A1D7-E8715666D90F/single-commercial.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/7EADBC02-9542-4D79-A96D-9E84A57A6593/single-case-studies.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/75579588-C1CA-4371-9D52-5A061FCD39AD/app.css",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/2F092835-0DD7-4881-99E6-0FBDE18697CA/app.css",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/4F29589F-B450-4F6C-A006-B02B0B2E7E38/home.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/ED37AA33-2F42-48F5-AC0E-85D63A6636A3/single-case-studies.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/70DBE370-F24E-4142-BC9B-9F16E5F93272/single-commercial.php",
+		"/www/sites/hug-pages/edit.php",
+		"/www/sites/hug-pages/js/summernote.js",
+		"/www/sites/hug-pages/style.less",
+		"/www/sites/hug-pages/assets/less/badges.less",
+		"/Users/martin/Downloads/bootstrap-fileinput-master/img/loading.gif",
+		"/Users/martin/Downloads/bootstrap-fileinput-master/img/loading-sm.gif",
+		"/www/sites/hug-pages/assets/less/forms.less",
+		"/Users/martin/Downloads/bootstrap-fileinput-master/css/fileinput.css",
+		"/www/sites/russellarmer/old/siteadmin/nhbc-hug/development.cfm",
+		"/www/sites/hug-pages/logout.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/62E79D3F-7B7B-4428-A2A2-6CD28D287C2C/single-commercial.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/34CFBCAA-8ED7-474D-A7E4-AE110BA6F865/commercial.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/C554CED6-211D-4BA6-954B-388983EA293E/single-commercial.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/076D1C4D-D4C6-42CF-AF16-EE8B474E7CBE/types.php",
+		"/Users/martin/Library/Caches/Cleanup At Startup/Transmit/AF890552-FAAB-449F-9F7A-8090497F108C/types.php",
+		"/www/sites/hug-pages/login.php",
 		"/www/hug/app/Article.php",
 		"/www/hug/database/migrations/2015_06_04_150619_create_articles_table.php",
 		"/Users/martin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
@@ -68,7 +223,7 @@
 	],
 	"find":
 	{
-		"height": 49.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -82,6 +237,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"@media screen and (max-width:768px) {",
+			".site-footer a:hover,.site-footer a:focus",
+			"\n}",
+			"card",
+			"mega-menu-item",
+			"        $stmt->bindParam(':text', $phpro_password, PDO::PARAM_STR, 40);\n",
+			"// check the password has printable character(s) except space\nelseif (ctype_graph($_POST['password']) != true)\n{\n        // if there is no match\n        $message = \"Password must be alpha numeric\";\n}"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -99,8 +261,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/martin/Library/Caches/Cleanup At Startup/Transmit/D42069F8-3530-4F53-B294-77189896D29A/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1448,
+								1448
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 748.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -110,7 +301,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
