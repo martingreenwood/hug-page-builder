@@ -36,8 +36,6 @@ if(isset( $_SESSION['user_id'] ))
         
         <div class="container text-center">
 
-
-
             <img style="margin: 40px 0;" width="200" src="http://217.199.187.69/russell-armer.co.uk/wp-content/uploads/2014/01/logo.png" alt="">
 
             <form class="form-signin" action="login.php" method="post">

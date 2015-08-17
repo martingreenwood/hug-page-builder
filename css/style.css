@@ -7349,13 +7349,25 @@ html {
 .note-editable {
   background-color: #ffffff;
 }
-.list-group-item span {
-  float: right;
-  font-size: 19px;
+form .form-group span {
+  width: 100%;
+  color: #878787;
+  font-size: 12px;
+  display: inline-block;
 }
 .list-group-item a {
-  display: block;
+  font-size: 13px;
   text-decoration: none;
+  font-weight: 300;
+  color: #878787;
+}
+.list-group-item a.del {
+  color: red;
+}
+.list-group-item a.func {
+  margin-left: 10px;
+  margin-top: 3px;
+  float: right;
 }
 .list-group-item:hover {
   background-color: ghostwhite;
